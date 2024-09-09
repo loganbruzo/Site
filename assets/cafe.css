@@ -1,0 +1,233 @@
+::-webkit-scrollbar{
+    width: 10px;
+    background-color: white;
+}
+
+::-webkit-scrollbar-thumb{
+    width: 10px;
+    background-color: rgb(0, 0, 0);
+}
+
+
+.imagemfundo{
+    position: absolute;
+    width: 100%;
+    height: 72%;
+    top: 140px;
+    right: 0.6%;
+    left: 0.01%;
+}
+
+.logo{
+    position: absolute;
+    width: 110px;
+    height: 110px;
+    border-radius: 50%;
+    top: 29px;
+    left: 60px;
+}
+
+.insta{
+    position: fixed;
+    width: 4%;
+    height: 4%;
+    border-radius: 100%;
+    top: 2px;
+    left: 18%;
+    cursor: pointer;
+    margin-top: 0%;
+}
+
+.cafe{
+    position: absolute;
+    border: none;
+    left: 900px;
+    top: 75px;
+    background-color: transparent; 
+    color: #ffffff;
+    cursor: pointer; 
+    font-size: 20px;
+ 
+}
+.cafe:hover{
+    color: rgb(255, 0, 0);
+}
+
+.lanche{
+    position: absolute;
+    border: white;
+    left: 1000px;
+    top: 75px;
+    background-color: transparent; 
+    color: #ffffff;
+    cursor: pointer; 
+    font-size: 20px;
+}
+
+.lanche:hover{
+    color: rgb(255, 0, 0);
+}
+
+.linha{
+    position: fixed;
+    border-color: rgb(68, 28, 5);
+    width: 120%;
+    height: 4.5%;
+    background-color: rgb(68, 28, 5);
+    right: 0.6%;
+    left: 0.01%;
+    top: 0;
+    border: none;
+    margin-top: 0%;
+}
+
+.siga{
+    top: 0;
+    margin-top: 0%;
+    color: #ffffff;
+    position: fixed;
+    font-size: 50%;
+    left: 15%;
+
+}
+
+.what{
+    position: fixed;
+    width: 4%;
+    height: 4%;
+    border-radius: 100%;
+    top: 2px;
+    right: 18%;
+    margin-top: 0%;
+}
+
+
+.num{
+    position: fixed;
+    top: 8px;
+    right: 12%;
+    margin-top: 0%;
+    color: white;
+    font-size: 80%;
+}
+
+.titulo{
+    position: absolute;
+    top: 180px;
+    left: 500px;
+    font-size: 50px;
+}
+
+.alinhar{
+    text-align: center;
+}
+
+.subti{
+    position: absolute;
+    top: 420px;
+    left: 355px;
+    font-size: 15px;
+}
+
+.dropdawnmenu{
+   position: absolute;
+}
+.dropdawnmenu a{
+    display: block;
+}
+
+
+
+.titleprincipal{
+    position: absolute;
+    top: 650px;
+    color: white;
+    left: 400px;
+    font-size: 30px;
+}
+
+.bebidaquentes{
+    position: absolute;
+    top: 760px;
+    color: white;
+    left: 100px;
+    font-size: 20px;
+}
+
+.bebidafrias{
+    position: absolute;
+    top: 1000px;
+    color: white;
+    left: 100px;
+    font-size: 20px; 
+}
+
+.titleprincipal2{
+    position: absolute;
+    top: 1300px;
+    color: white;
+    left: 400px;
+    font-size: 30px;
+}
+
+.comida{
+    position: absolute;
+    top: 1415px;
+    color: white;
+    left: 100px;
+    font-size: 20px;
+}
+
+.comida2{
+    position: absolute;
+    top: 1650px;
+    color: white;
+    left: 100px;
+    font-size: 20px;
+}
+
+.comida3{
+    position: absolute;
+    top: 1870px;
+    color: white;
+    left: 100px;
+    font-size: 20px;
+}
+
+
+.titleprincipal3{
+    position: absolute;
+    top: 2140px;
+    color: white;
+    left: 400px;
+    font-size: 30px;
+}
+
+.comidatarde{
+    position: absolute;
+    top: 2240px;
+    color: white;
+    left: 100px;
+    font-size: 20px;
+}
+
+.comidatarde2{
+    position: absolute;
+    top: 2450px;
+    color: white;
+    left: 100px;
+    font-size: 20px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+.musica{
+    position: absolute;
+    top: 40px;
+    left: 210px;
+    height: 80px;
+    width: 100px;
+}
